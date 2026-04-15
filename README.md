@@ -81,6 +81,14 @@ npm run start
 
 | 游戏大厅 | 牌桌对战 | 商城界面 |
 | :---: | :---: | :---: |
+<img width="1279" height="724" alt="效果图-1" src="https://github.com/user-attachments/assets/53f6eb06-65cc-4d40-b01e-6863ba58c0e1" />
+<img width="1336" height="753" alt="效果图" src="https://github.com/user-attachments/assets/f9cb7b3c-28a2-4de6-9409-1b7b7d88cc45" />
+<img width="2560" height="1440" alt="念凯文_2018-4-10_麻将牌局界面_花牌数量显示" src="https://github.com/user-attachments/assets/26aa9689-d260-4c78-a9cc-f2638c558739" />
+<img width="2560" height="1440" alt="念凯文_2018-4-8_麻将小游戏界面-摇摇乐-闹钟倒计时" src="https://github.com/user-attachments/assets/83465bbd-4a90-42ca-a2c9-871a7a11720a" />
+<img width="2560" height="1440" alt="念凯文_2018-2-7_结算界面-二人-胜利02" src="https://github.com/user-attachments/assets/481b7b04-9fea-4012-be9f-ab68bf3d5833" />
+<img width="2560" height="1440" alt="廖海良_2018-3-15_麻将商城界面" src="https://github.com/user-attachments/assets/49d646ef-d9ca-4cbf-896f-5222db19aeca" />
+<img width="1283" height="723" alt="s效果图" src="https://github.com/user-attachments/assets/48713c15-31a6-474e-829d-386d8351463d" />
+<img width="2560" height="1440" alt="_2018-2-7_麻将主大厅" src="https://github.com/user-attachments/assets/9e811cb5-b711-4108-bada-dcea479d871e" />
 
 
 🎥 **演示视频**：[联系我获取](https://t.me/xuzongbin001)
@@ -101,17 +109,12 @@ npm run start
 
 ⭐ Star 这个仓库，支持优质麻将源码持续分享！
 
-![s效果图](https://github.com/user-attachments/assets/0222a62c-a275-4113-96c5-89c016aba2ba)
-![_2018-2-7_麻将主大厅](https://github.com/user-attachments/assets/404d054e-0ac3-41fd-a7bc-93f29ebbd9cb)
-![_2018-2-7_麻将主大厅](https://github.com/user-attachments/assets/47785641-84a5-43fa-85e9-2cabc4b12227)
-![效果图2-1](https://github.com/user-attachments/assets/16d0d97a-104a-4eda-9cab-012115337201)
-![效果图-1](https://github.com/user-attachments/assets/fd771b9a-3563-46b4-b003-ea0eb594a358)
-![效果图](https://github.com/user-attachments/assets/af1c92c8-52e0-40fa-af76-43050033deb9)
+<img width="1279" height="724" alt="效果图-1" src="https://github.com/user-attachments/assets/53f6eb06-65cc-4d40-b01e-6863ba58c0e1" />
+<img width="1336" height="753" alt="效果图" src="https://github.com/user-attachments/assets/f9cb7b3c-28a2-4de6-9409-1b7b7d88cc45" />
+<img width="2560" height="1440" alt="念凯文_2018-4-10_麻将牌局界面_花牌数量显示" src="https://github.com/user-attachments/assets/26aa9689-d260-4c78-a9cc-f2638c558739" />
+<img width="2560" height="1440" alt="念凯文_2018-4-8_麻将小游戏界面-摇摇乐-闹钟倒计时" src="https://github.com/user-attachments/assets/83465bbd-4a90-42ca-a2c9-871a7a11720a" />
+<img width="2560" height="1440" alt="念凯文_2018-2-7_结算界面-二人-胜利02" src="https://github.com/user-attachments/assets/481b7b04-9fea-4012-be9f-ab68bf3d5833" />
+<img width="2560" height="1440" alt="廖海良_2018-3-15_麻将商城界面" src="https://github.com/user-attachments/assets/49d646ef-d9ca-4cbf-896f-5222db19aeca" />
+<img width="1283" height="723" alt="s效果图" src="https://github.com/user-attachments/assets/48713c15-31a6-474e-829d-386d8351463d" />
+<img width="2560" height="1440" alt="_2018-2-7_麻将主大厅" src="https://github.com/user-attachments/assets/9e811cb5-b711-4108-bada-dcea479d871e" />
 
-![牌桌换桌](https://github.com/user-attachments/assets/9b777f74-cd91-4c03-aff6-e627b0d7c6dd)
-
-![念凯文_2018-4-10_麻将牌局界面_花牌数量显示](https://github.com/user-attachments/assets/7310a438-57cd-4c24-a770-63b31523f0a7)
-![念凯文_2018-4-8_麻将小游戏界面-摇摇乐-闹钟倒计时](https://github.com/user-attachments/assets/1853dfca-9db1-4618-b73d-830e4f57e821)
-![念凯文_2018-2-7_麻将主大厅_最新](https://github.com/user-attachments/assets/2ccfd1ea-97b3-4eb8-81db-926e6d922b50)
-![念凯文_2018-2-7_麻将主大厅_最新](https://github.com/user-attachments/assets/945d3bfe-d17d-4f98-b8d1-482a72b2e7bf)
-![念凯文_2018-2-7_结算界面-二人-胜利02](https://github.com/user-attachments/assets/ab34a19c-9ba3-49b2-8a8e-8d370c81dc57)
