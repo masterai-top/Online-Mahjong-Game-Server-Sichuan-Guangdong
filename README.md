@@ -1,6 +1,39 @@
-# Mahjong-game
-麻将游戏合集，四川麻将，二人麻将，广东麻将，独立游戏玩法，可以上线ios商店。高流水项目；
-有意向者联系：Tg：@xuzongbin001或邮箱：masterai918@gmail.com
+# 🀄️ 麻将游戏合集 | 四川麻将+二人麻将+广东麻将 | 高流水项目
+
+> **完整服务端源码 | Erlang高并发 | 可上线iOS商店 | 已运营的高流水项目**
+
+[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
+[![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android-green)]()
+[![Language](https://img.shields.io/badge/语言-Erlang-red)]()
+
+---
+
+## ✨ 核心特色 | Features
+
+| 麻将类型 | 核心玩法 |
+| :--- | :--- |
+| 🀄️ **四川麻将** | 血战到底、缺一门、刮风下雨、查叫查卫生 |
+| 👥 **二人麻将** | 快节奏1v1，适合碎片时间 |
+| 🀄️ **广东麻将** | 推倒胡、鸡平、红中王 |
+
+
+## 🎯 功能清单 | Features
+ 房间系统 ✅ 商城系统 ✅ 充值系统
+✅ 任务系统 ✅ VIP系统 ✅ 排行榜
+✅ 聊天系统 ✅ 抽奖/转盘 ✅ 邮件系统
+✅ 战绩统计 ✅ 好友系统 ✅ 分享功能
+
+## 🚀 技术架构 | Tech Stack
+
+- **服务端**：java (高并发、热更新)
+- **客户端**：Cocos / Unity (可演示)
+- **数据库**：MySQL + Redis
+
+
+## 📸 游戏界面
+
+| 游戏大厅 | 牌桌对战 | 商城界面 |
+| :---: | :---: | :---: |
 ![s效果图](https://github.com/user-attachments/assets/0222a62c-a275-4113-96c5-89c016aba2ba)
 ![_2018-2-7_麻将主大厅](https://github.com/user-attachments/assets/404d054e-0ac3-41fd-a7bc-93f29ebbd9cb)
 ![_2018-2-7_麻将主大厅](https://github.com/user-attachments/assets/47785641-84a5-43fa-85e9-2cabc4b12227)
@@ -16,8 +49,25 @@
 ![念凯文_2018-2-7_麻将主大厅_最新](https://github.com/user-attachments/assets/945d3bfe-d17d-4f98-b8d1-482a72b2e7bf)
 ![念凯文_2018-2-7_结算界面-二人-胜利02](https://github.com/user-attachments/assets/ab34a19c-9ba3-49b2-8a8e-8d370c81dc57)
 
+🎥 **演示视频**：[联系我获取](https://t.me/xuzongbin001)
 
-https://github.com/user-attachments/assets/18f7bf28-a43b-48b4-a360-831abffe361a
+## 💰 获取源码 | Contact
+
+✅ 完整java服务端源码  
+✅ 数据库脚本  
+✅ 部署文档  
+✅ 商业授权
+
+📱 **Telegram：@xuzongbin001**  
+📧 **Email：masterai918@gmail.com**
+
+👉 **联系我获取演示站 + 详细报价**
+
+---
+
+⭐ Star 这个仓库，支持优质麻将源码持续分享！
+
+
 
 
 ![廖海良_2018-3-15_麻将商城界面](https://github.com/user-attachments/assets/55c5a650-af8e-4b5f-95c3-dceaf7142e21)
