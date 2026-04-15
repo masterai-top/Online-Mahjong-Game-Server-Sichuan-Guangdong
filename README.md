@@ -49,7 +49,7 @@ Supports multiple Mahjong variants:
 
 ## 🚀 Quick Start
 
-```bash
+
 git clone xxx  
 cd server  
 npm install  
