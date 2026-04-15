@@ -1,12 +1,59 @@
-# 🀄️ 麻将游戏合集 | 四川麻将+二人麻将+广东麻将 | 高流水项目
+🔥 Commercial Mahjong Platform | Ready to Launch | High Profit System
+# 🀄️ 麻将游戏合集 | 四川麻将+二人麻将+广东麻将 | 高流水项目 Mahjong Game Platform | 麻将游戏系统 | 麻將遊戲系統
 
 > **完整服务端源码 | Erlang高并发 | 可上线iOS商店 | 已运营的高流水项目**
+🔥 Multiplayer Mahjong Server | 多人麻将平台 | 多人麻將平台  
+👉 Sichuan + Guangdong + 2 Player | Club System | Commercial Ready  
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android-green)]()
 [![Language](https://img.shields.io/badge/语言-Erlang-red)]()
 
 ---
+---
+
+## 🧠 项目介绍 / Project Overview
+
+本项目是一套完整的麻将游戏平台源码  
+This is a full-featured Mahjong game platform  
+
+支持多种玩法：  
+Supports multiple Mahjong variants:
+
+- 四川麻将 / Sichuan Mahjong  
+- 广东麻将 / Guangdong Mahjong  
+- 二人麻将 / 2-player Mahjong  
+
+👉 可用于商业化运营  
+👉 Ready for commercial use  
+
+---
+
+## 🎮 功能特点 / Features
+
+- 实时多人对战 / Real-time multiplayer  
+- 多玩法支持 / Multiple game modes  
+- 棋牌游戏服务器架构 / Game server architecture  
+- 可扩展俱乐部系统 / Club system support  
+
+---
+
+## 🏆 使用场景 / Use Cases
+
+- 麻将游戏平台  
+- 棋牌游戏APP  
+- 棋牌游戏俱乐部  
+- 社交娱乐系统  
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone xxx  
+cd server  
+npm install  
+npm run start
 
 ## ✨ 核心特色 | Features
 
