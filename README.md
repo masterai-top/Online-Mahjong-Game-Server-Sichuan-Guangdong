@@ -1,7 +1,6 @@
-🔥 Commercial Mahjong Platform | Ready to Launch | High Profit System
-# 🀄️ 麻将游戏合集 | 麻将源码|四川麻将+二人麻将+广东麻将 | 麻将源码 |  高流水项目 Mahjong Game Platform | 麻将游戏系统 | 麻將遊戲系統
+# 🀄️ 麻将游戏合集 | 麻将源码|四川麻将+二人麻将+广东麻将 | 麻将源码 |   Mahjong Game Platform | 麻将游戏系统 | 麻將遊戲系統
 
-> **完整服务端源码 | Erlang高并发 | 可上线iOS商店 | 已运营的高流水项目**
+> **完整服务端源码 | Erlang高并发 | **
 🔥 Multiplayer Mahjong Server | 多人麻将平台 | 多人麻將平台  
 👉 Sichuan + Guangdong + 2 Player | Club System | Commercial Ready  
 
@@ -24,8 +23,7 @@ Supports multiple Mahjong variants:
 - 广东麻将 / Guangdong Mahjong  
 - 二人麻将 / 2-player Mahjong  
 
-👉 可用于商业化运营  
-👉 Ready for commercial use  
+
 
 ---
 
@@ -93,17 +91,14 @@ npm run start
 
 🎥 **演示视频**：[联系我获取](https://t.me/xuzongbin001)
 
-## 💰 获取源码 | Contact
+## 💰 联系
 
-✅ 完整java服务端源码  
-✅ 数据库脚本  
-✅ 部署文档  
-✅ 商业授权
+
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
-👉 **联系我获取演示站 **
+
 
 ---
 
